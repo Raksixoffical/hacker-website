@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+    font-family: Consolas,monaco,monospace; 
+    background-image: url('https://media.discordapp.net/attachments/588371936065748992/796018288038772746/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.css-dark{
+    background-color: transparent;
+    border-color: #00ff00;
+}
+
+.css-avatar{
+    border-radius: 100%;
+    max-height: 256px;
+    max-width: 256px;
+    margin: auto;
+}
+.bosluk{
+    height: 10px;
+}
+.css-t-green{
+    color:#00ff00;
+}
+.css-main{
+    margin: auto;
+    max-width: 95%;
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+    position: relative;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #00ff00;
+    border-radius: 20px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #019b01;
+  }
+
+.css-02{
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: initial;
+    
+}
+
+.css-kanna{
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: initial;
+    
+}
